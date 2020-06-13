@@ -1,0 +1,8 @@
+/.vscode
+/MyAPI/clean.csv
+/MyAPI/model.h5
+/MyAPI/tweet_model(1).pkl
+/*.csv
+/*.pkl
+/*.h5
+/MyAPI/token
