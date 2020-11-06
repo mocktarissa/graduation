@@ -134,11 +134,7 @@ def approvereject(request):
 		return JsonResponse({ temp_tweet: newdf.iloc[0]['Status'],
 		"Certainty": str(newdf.iloc[0]['certainty'])
 		}, safe=False)
-		# on peut faire les deux
-		#cest pour ca je prefere js 
-		#oui excellent job sensei 
-		#jai du me tuer je fais un stage 
-		# no pas lecole remote  hahahahah  
+		
 	except ValueError as e:
 		return Response(e.args[0], status.HTTP_400_BAD_REQUEST)
 
