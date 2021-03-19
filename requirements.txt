@@ -22,7 +22,7 @@ distlib==0.3.0
 distro-info===0.18ubuntu0.18.04.1
 Django==3.0.7
 django-cors-headers==3.3.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 fake-useragent==0.1.11
 filelock==3.0.12
 gast==0.3.3
