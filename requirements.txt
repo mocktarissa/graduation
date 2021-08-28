@@ -97,7 +97,7 @@ Twisted==17.9.0
 twitter-scraper==0.4.1
 ufw==0.36
 unattended-upgrades==0.1
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.21
 w3lib==1.21.0
 websockets==8.1
