@@ -64,7 +64,7 @@ pyasn1-modules==0.2.1
 pycrypto==2.6.1
 pyee==7.0.1
 pygobject==3.26.1
-PyJWT==1.5.3
+PyJWT==2.4.0
 pyOpenSSL==17.5.0
 pyppeteer==0.0.25
 pyquery==1.4.1
