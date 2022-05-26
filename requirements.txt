@@ -93,7 +93,7 @@ tensorflow==2.5.1
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 tqdm==4.45.0
-Twisted==17.9.0
+Twisted==22.4.0
 twitter-scraper==0.4.1
 ufw==0.36
 unattended-upgrades==0.1
